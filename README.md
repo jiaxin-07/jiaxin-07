@@ -1,69 +1,79 @@
 
-<!-- =================================================
-     TEW JIA XIN | STARLIGHT CYBER PORTFOLIO 3.0
-     Personal GitHub Profile README
-     ================================================= -->
+<!-- =====================================================
+     TEW JIA XIN | PINK COSMIC PORTFOLIO 4.0
+     Pink × Lavender × Icy Blue
+     GitHub Profile README
+====================================================== -->
 
 <div align="center">
 
-<img src="./IMG_2417.jpeg" width="100%" alt="Tew Jia Xin Personal Portfolio Poster"/>
+<img src="./IMG_2417.jpeg" width="100%" alt="Tew Jia Xin Portfolio Banner"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2500&pause=800&color=C4B5FD&center=true&vCenter=true&width=850&lines=HELLO%2C+WORLD!;WELCOME+TO+MY+DIGITAL+UNIVERSE;COMPUTER+NETWORKS+%26+CYBERSECURITY;LEARN.+EXPLORE.+INNOVATE." alt="Animated typing headline"/>
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=24&duration=2500&pause=800&color=F8BBD0&center=true&vCenter=true&width=850&lines=HELLO%2C+WORLD!+%E2%9C%A8;WELCOME+TO+MY+DIGITAL+UNIVERSE;COMPUTER+NETWORKS+%26+SECURITY;LEARN.+EXPLORE.+CREATE.+%F0%9F%8C%B7" alt="Typing SVG"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/UTM-6D5DFB?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/COMPUTER_SCIENCE-EC4899?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NETWORKS_%26_SECURITY-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UTM-5B3A63?style=for-the-badge&logo=google-scholar&logoColor=F8BBD0"/>
+<img src="https://img.shields.io/badge/COMPUTER_SCIENCE-E879B9?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/NETWORKS_%26_SECURITY-A5E7F5?style=for-the-badge&logoColor=5B3A63"/>
 
 <br/><br/>
 
 <a href="https://github.com/jiaxin-07">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-24182D?style=for-the-badge&logo=github&logoColor=F8BBD0"/>
 </a>
+
 <a href="https://www.linkedin.com/in/tew-jia-xin-b60828445/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-E879B9?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=jiaxin-07&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=jiaxin-07&style=flat-square&color=E879B9&label=PROFILE+VISITORS"/>
+
+<br/><br/>
+
+✧･ﾟ: *✧･ﾟ:* &nbsp; ♡ &nbsp; *:･ﾟ✧*:･ﾟ✧
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,50:EC4899,100:06B6D4&height=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8BBD0,35:E879B9,70:C4B5FD,100:A5E7F5&height=5" width="100%"/>
 
 <!-- ABOUT ME -->
 
-<h2 align="center">🌌 ABOUT ME</h2>
+<h2 align="center">🌸 ABOUT ME</h2>
 
 <div align="center">
 
-### Hi, I'm Tew Jia Xin! 👋
+### Hi, I'm Tew Jia Xin! ♡
 
 **Computer Science Undergraduate | Universiti Teknologi Malaysia**
 
-I'm currently pursuing a Bachelor of Computer Science (Computer Networks and Security) with Honours at Universiti Teknologi Malaysia (UTM).
+Currently pursuing a Bachelor of Computer Science (Computer Networks and Security) with Honours at Universiti Teknologi Malaysia (UTM).
 
 A curious learner who enjoys analytical thinking, solving problems and exploring how technology works behind the scenes.
 
-I believe that every new challenge is an opportunity to learn, improve and grow.
+I believe every challenge is an opportunity to learn something new, improve myself and grow into a better version of who I am.
 
 <br/>
 
-<img src="https://img.shields.io/badge/🎓_EDUCATION-UTM-6366F1?style=flat-square"/>
-<img src="https://img.shields.io/badge/💻_PROGRAMMING-C++_%7C_Java-EC4899?style=flat-square"/>
-<img src="https://img.shields.io/badge/🔐_FIELD-Cybersecurity-06B6D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/🎓_UNIVERSITY-UTM-E879B9?style=flat-square"/>
+<img src="https://img.shields.io/badge/💻_PROGRAMMING-C++_%7C_Java-C4B5FD?style=flat-square"/>
+<img src="https://img.shields.io/badge/🔐_FIELD-Cybersecurity-A5E7F5?style=flat-square"/>
+
+<br/><br/>
+
+✦ Stay curious. Stay creative. Keep growing. ✦
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:6366F1,100:EC4899&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A5E7F5,50:C4B5FD,100:F8BBD0&height=3" width="100%"/>
 
 <!-- ACADEMIC ACHIEVEMENTS -->
 
@@ -71,7 +81,7 @@ I believe that every new challenge is an opportunity to learn, improve and grow.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/UNIVERSITI_TEKNOLOGI_MALAYSIA-312E81?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/UNIVERSITI_TEKNOLOGI_MALAYSIA-5B3A63?style=for-the-badge&logo=google-scholar&logoColor=F8BBD0"/>
 
 ### Bachelor of Computer Science
 
@@ -85,7 +95,7 @@ Faculty of Computing · UTM
 <tr>
 <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/SPM-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SPM-F8BBD0?style=for-the-badge&labelColor=5B3A63"/>
 
 # 10As
 
@@ -94,7 +104,7 @@ Faculty of Computing · UTM
 </td>
 <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/MATRICULATION-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MATRICULATION-E879B9?style=for-the-badge&labelColor=5B3A63"/>
 
 # 4.00
 
@@ -102,10 +112,11 @@ Semester 1 & 2 CGPA
 
 </td>
 </tr>
+
 <tr>
 <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/MUET-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MUET-A5E7F5?style=for-the-badge&labelColor=5B3A63"/>
 
 # Band 4.5
 
@@ -114,7 +125,7 @@ English Proficiency
 </td>
 <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/PROJECT-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PROJECT-C4B5FD?style=for-the-badge&labelColor=5B3A63"/>
 
 # 96%
 
@@ -128,102 +139,105 @@ Project Class Score
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,50:8B5CF6,100:06B6D4&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8BBD0,50:C4B5FD,100:A5E7F5&height=3" width="100%"/>
 
-<!-- TECHNOLOGY AND SKILLS -->
+<!-- TECHNICAL SKILLS -->
 
-<h2 align="center">💎 TECHNOLOGY & SKILLS</h2>
+<h2 align="center">💻 TECHNOLOGY & SKILLS</h2>
 
 <div align="center">
 
-### 💻 Programming Languages
+### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,java&theme=dark" alt="Programming Languages"/>
+<img src="https://skillicons.dev/icons?i=cpp,java&theme=light" alt="Programming Languages"/>
 
 <br/><br/>
 
-| Language | Current Knowledge |
+| Language | Knowledge |
 |:---:|:---|
 | C++ | Currently learning programming fundamentals |
 | Java | Basic programming knowledge from previous studies |
 
 <br/>
 
-### 🧰 Development Tools
+### Development Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Development Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" alt="Development Tools"/>
 
 <br/><br/>
 
-### 📚 Learning in Progress
+### Learning Journey
 
-<img src="https://img.shields.io/badge/Programming_Logic-6366F1?style=flat-square"/>
-<img src="https://img.shields.io/badge/Problem_Solving-EC4899?style=flat-square"/>
-<img src="https://img.shields.io/badge/Computer_Networks-0891B2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Information_Security-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Programming_Logic-E879B9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Problem_Solving-C4B5FD?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer_Networks-A5E7F5?style=flat-square"/>
+<img src="https://img.shields.io/badge/Information_Security-F8BBD0?style=flat-square"/>
 
 </div>
 
 <br/>
 
-<!-- AREAS OF INTEREST -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A5E7F5,50:E879B9,100:C4B5FD&height=3" width="100%"/>
 
-<h2 align="center">🚀 COMPUTER SCIENCE INTERESTS</h2>
+<!-- COMPUTER SCIENCE INTERESTS -->
+
+<h2 align="center">🔮 COMPUTER SCIENCE INTERESTS</h2>
 
 <table>
 <tr>
 <td width="50%" align="center">
 
-<img src="https://img.shields.io/badge/NETWORKS-0891B2?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/NETWORKS-A5E7F5?style=for-the-badge&logo=cisco&logoColor=5B3A63"/>
 
 ### 🌐 Computer Networks
 
-Interested in network architecture, communication protocols, connectivity and how devices communicate with each other.
+Exploring network communication, architecture, connectivity and protocols.
 
 </td>
 <td width="50%" align="center">
 
-<img src="https://img.shields.io/badge/SECURITY-7C3AED?style=for-the-badge&logo=datadog&logoColor=white"/>
+<img src="https://img.shields.io/badge/CYBERSECURITY-E879B9?style=for-the-badge&logo=datadog&logoColor=white"/>
 
 ### 🔐 Cybersecurity
 
-Exploring information security, network protection, vulnerability awareness and digital safety.
+Interested in information security, network protection and digital safety.
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" align="center">
 
-<img src="https://img.shields.io/badge/ETHICAL_HACKING-DB2777?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/ETHICAL_HACKING-C4B5FD?style=for-the-badge&logo=hackthebox&logoColor=5B3A63"/>
 
 ### 🛡️ Ethical Hacking
 
-Interested in understanding security weaknesses and learning how systems can be protected through authorized security testing.
+Interested in understanding security weaknesses through authorized security testing.
 
 </td>
 <td width="50%" align="center">
 
-<img src="https://img.shields.io/badge/DIGITAL_FORENSICS-0D9488?style=for-the-badge&logo=protonmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/DIGITAL_FORENSICS-F8BBD0?style=for-the-badge&logoColor=5B3A63"/>
 
 ### 🔎 Digital Forensics
 
-Curious about digital evidence, incident investigation and understanding cybersecurity incidents.
+Curious about digital evidence, incident investigation and cybersecurity incidents.
 
 </td>
 </tr>
 </table>
 
-<br/>
-
 <div align="center">
 
-*Always curious about new technologies and continuously expanding my knowledge.*
+<br/>
+
+✧ Exploring technology, one discovery at a time. ✧
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:6366F1,100:EC4899&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8BBD0,50:C4B5FD,100:A5E7F5&height=3" width="100%"/>
 
 <!-- PERSONAL INTERESTS -->
 
@@ -231,36 +245,30 @@ Curious about digital evidence, incident investigation and understanding cyberse
 
 <div align="center">
 
-| Interest | Description |
+| Interest | A Little About Me |
 |:---:|:---|
 | 🏃 Running | Staying active and challenging myself |
 | 🏓 Table Tennis | Enjoying sports and friendly competition |
 | 🏸 Badminton | Building energy and teamwork |
-| 🎬 Content Creation | Exploring video editing and visual storytelling |
-| 📚 Learning | Discovering new knowledge and personal growth |
-| 🧩 Problem Solving | Enjoying analytical thinking and challenges |
+| 🎬 Content Creation | Exploring video editing and storytelling |
+| 📚 Learning | Discovering new knowledge |
+| 🧩 Problem Solving | Enjoying analytical thinking |
 
 <br/>
 
-<img src="https://img.shields.io/badge/SPORTS-EC4899?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CREATIVITY-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CONTINUOUS_LEARNING-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SPORTS-F8BBD0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CREATIVITY-C4B5FD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GROWTH-A5E7F5?style=for-the-badge"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,50:8B5CF6,100:06B6D4&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C4B5FD,50:F8BBD0,100:E879B9&height=3" width="100%"/>
 
-<!-- LEADERSHIP AND EXTRACURRICULAR -->
+<!-- EXPERIENCES -->
 
-<h2 align="center">🎨 LEADERSHIP & EXTRACURRICULAR EXPERIENCES</h2>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/STUDENT_EXPERIENCE-6366F1?style=for-the-badge"/>
-
-</div>
+<h2 align="center">🎀 LEADERSHIP & EXTRACURRICULAR EXPERIENCES</h2>
 
 ### 🚑 St John Ambulance
 
@@ -277,7 +285,7 @@ Curious about digital evidence, incident investigation and understanding cyberse
 **School Safety Activities**
 
 - Participated in school safety patrol activities.
-- Assisted with evacuation drills and safety-related activities.
+- Involved in evacuation drills and safety-related activities.
 - Developed awareness of safety procedures and teamwork.
 
 <br/>
@@ -299,22 +307,21 @@ Curious about digital evidence, incident investigation and understanding cyberse
 - Participated in an interview-based learning activity.
 - Experienced active learning through direct interaction.
 - Improved communication, presentation and video editing skills.
-- Learned the value of exchanging knowledge beyond passive learning.
+- Learned the value of active learning and knowledge sharing.
 
 <br/>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/TEAMWORK-EC4899?style=flat-square"/>
-<img src="https://img.shields.io/badge/COMMUNICATION-6366F1?style=flat-square"/>
-<img src="https://img.shields.io/badge/LEADERSHIP-0891B2?style=flat-square"/>
-<img src="https://img.shields.io/badge/RESPONSIBILITY-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/TEAMWORK-E879B9?style=flat-square"/>
+<img src="https://img.shields.io/badge/COMMUNICATION-C4B5FD?style=flat-square"/>
+<img src="https://img.shields.io/badge/LEADERSHIP-A5E7F5?style=flat-square"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:EC4899,100:06B6D4&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A5E7F5,50:F8BBD0,100:C4B5FD&height=3" width="100%"/>
 
 <!-- PROJECTS -->
 
@@ -326,7 +333,7 @@ Curious about digital evidence, incident investigation and understanding cyberse
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/01-PROGRAMMING-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/01-PROGRAMMING-E879B9?style=for-the-badge"/>
 
 ### 💻 Programming Practice
 
@@ -341,14 +348,14 @@ Developing programming fundamentals through C++ and Java.
 - Loops and repetition
 - Arrays and functions
 - Problem-solving
-- Basic program development
 
 </td>
+
 <td width="50%" valign="top">
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/02-HARDWARE-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/02-HARDWARE-C4B5FD?style=for-the-badge"/>
 
 ### 🖥️ Computer Hardware Practical
 
@@ -360,16 +367,17 @@ Technology and Information System practical assignment.
 
 - CPU fan assembly and disassembly
 - Hard disk drive assembly and disassembly
-- Understanding basic computer hardware components
+- Understanding basic hardware components
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/03-NALI_ACTIVITY-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/03-NALI_ACTIVITY-F8BBD0?style=for-the-badge"/>
 
 ### 🎤 NALI Interview Activity
 
@@ -386,11 +394,12 @@ Collaborative interview-based learning experience.
 - Presentation
 
 </td>
+
 <td width="50%" valign="top">
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/04-TIS_COURSEWORK-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/04-TIS_COURSEWORK-A5E7F5?style=for-the-badge"/>
 
 ### 📚 Technology & Information System
 
@@ -412,7 +421,7 @@ Academic coursework exploring technology and information systems.
 <div align="center">
 
 <a href="https://github.com/jiaxin-07">
-<img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB_PROJECTS-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-5B3A63?style=for-the-badge&logo=github&logoColor=F8BBD0"/>
 </a>
 
 <br/><br/>
@@ -423,7 +432,7 @@ Academic coursework exploring technology and information systems.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:6366F1,100:EC4899&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8BBD0,50:E879B9,100:A5E7F5&height=3" width="100%"/>
 
 <!-- SOFT SKILLS -->
 
@@ -435,15 +444,17 @@ Academic coursework exploring technology and information systems.
 |:---|:---|
 | Communication | Expressing ideas and interacting with others |
 | Teamwork | Collaborating towards shared goals |
-| Adaptability | Adjusting to new environments and challenges |
+| Adaptability | Adjusting to new environments |
 | Problem Solving | Analysing situations and finding solutions |
 | Time Management | Balancing academic and extracurricular activities |
-| Creativity | Exploring ideas through multimedia and content creation |
-| Continuous Learning | Staying curious and improving gradually |
+| Creativity | Exploring ideas through multimedia |
+| Continuous Learning | Improving knowledge and skills |
 
 </div>
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C4B5FD,50:A5E7F5,100:F8BBD0&height=3" width="100%"/>
 
 <!-- CAREER GOALS -->
 
@@ -451,15 +462,15 @@ Academic coursework exploring technology and information systems.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/FUTURE_DIRECTION-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MY_FUTURE_DIRECTION-E879B9?style=for-the-badge"/>
 
 ### Building My Future in Cybersecurity
 
-My current goal is to develop a strong foundation in computer science, computer networks and cybersecurity.
+My goal is to develop a strong foundation in computer science, computer networks and cybersecurity.
 
-I hope to gradually gain practical experience and explore different areas within the cybersecurity industry.
+I hope to gain practical experience, strengthen my technical knowledge and explore different areas within the cybersecurity industry.
 
-**Areas I hope to explore further:**
+**Areas I hope to explore:**
 
 - Network Security
 - Penetration Testing
@@ -467,39 +478,39 @@ I hope to gradually gain practical experience and explore different areas within
 - Ethical Hacking
 - Digital Forensics
 
-I believe that becoming a capable cybersecurity professional requires curiosity, continuous learning, critical thinking and a strong sense of responsibility.
+I believe becoming a capable cybersecurity professional requires curiosity, continuous learning, critical thinking and responsibility.
 
 <br/>
 
-**Learn Today. Secure Tomorrow.**
+**Learn Today. Secure Tomorrow. ♡**
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,50:8B5CF6,100:06B6D4&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8BBD0,50:C4B5FD,100:A5E7F5&height=3" width="100%"/>
 
 <!-- GITHUB ANALYTICS -->
 
-<h2 align="center">📈 GITHUB ANALYTICS</h2>
+<h2 align="center">📊 GITHUB ANALYTICS</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jiaxin-07&show_icons=true&hide_border=true&bg_color=1A1640&title_color=C4B5FD&icon_color=F472B6&text_color=E0E7FF&rank_icon=github" width="95%" alt="GitHub Statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jiaxin-07&show_icons=true&hide_border=true&bg_color=24182D&title_color=F8BBD0&icon_color=E879B9&text_color=F3E8FF&rank_icon=github" width="95%" alt="GitHub Stats"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiaxin-07&layout=compact&hide_border=true&bg_color=1A1640&title_color=67E8F9&text_color=E0E7FF&langs_count=6" width="65%" alt="Most Used Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiaxin-07&layout=compact&hide_border=true&bg_color=24182D&title_color=F8BBD0&text_color=F3E8FF&langs_count=6" width="65%" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jiaxin-07&bg_color=1A1640&color=C4B5FD&line=EC4899&point=67E8F9&area=true&hide_border=true&custom_title=MY%20CONTRIBUTION%20JOURNEY" width="100%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jiaxin-07&bg_color=24182D&color=F8BBD0&line=E879B9&point=A5E7F5&area=true&hide_border=true&custom_title=MY%20CONTRIBUTION%20JOURNEY" width="100%" alt="Contribution Graph"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:6366F1,100:EC4899&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A5E7F5,50:E879B9,100:C4B5FD&height=3" width="100%"/>
 
 <!-- CONTACT -->
 
@@ -507,18 +518,18 @@ I believe that becoming a capable cybersecurity professional requires curiosity,
 
 <div align="center">
 
-### Let's Connect & Share Ideas!
+### Let's Connect & Share Ideas! ♡
 
-I'm always open to connecting with fellow students, technology enthusiasts and people who enjoy learning and exploring new ideas.
+I'm always happy to connect with fellow students, technology enthusiasts and people who enjoy learning and exploring new ideas.
 
 <br/>
 
 <a href="https://github.com/jiaxin-07">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-24182D?style=for-the-badge&logo=github&logoColor=F8BBD0"/>
 </a>
 
 <a href="https://www.linkedin.com/in/tew-jia-xin-b60828445/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-E879B9?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -527,11 +538,11 @@ I'm always open to connecting with fellow students, technology enthusiasts and p
 
 <br/>
 
-**Stay Curious. Keep Learning. Make an Impact.**
+✧ Stay Curious · Keep Learning · Make an Impact ✧
 
-<br/>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,30:6366F1,65:EC4899,100:06B6D4&height=160&section=footer&text=THANK%20YOU%20FOR%20VISITING&fontSize=19&fontColor=FFFFFF&fontAlignY=65" width="100%" alt="Portfolio Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B3A63,35:E879B9,70:C4B5FD,100:A5E7F5&height=180&section=footer&text=THANK%20YOU%20FOR%20VISITING&fontSize=20&fontColor=FFFFFF&fontAlignY=65" width="100%" alt="Pink Cosmic Footer"/>
 
 </div>
 
