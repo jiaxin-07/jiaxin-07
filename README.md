@@ -1,113 +1,74 @@
-<!-- PROFILE HEADER -->
+<a href="https://github.com/jiaxin-07">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jiaxin-07&repo=YOUR_PROJECT_REPOSITORY&theme=tokyonight&hide_border=true"/>
+</a>
 
-<h1 align="center">Hi, I'm Jia Xin 👋</h1>
+</div>
 
-<h3 align="center">
-  🎓 Cyber Security Student | Universiti Teknologi Malaysia
-</h3>
+What I'm building:
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Aspiring+Cybersecurity+Professional;Learning+%7C+Building+%7C+Growing;Exploring+the+Digital+World+%F0%9F%94%90" />
-</p>
+- C++ Programming Exercises — Strengthening programming logic and fundamentals.
+- Java Learning — Building on previous programming experience.
+- Computer Hardware Practical — Understanding hardware through hands-on activities.
+- Cybersecurity Learning Portfolio — Documenting my journey into computer networks and security.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/University-UTM-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Field-Cybersecurity-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Currently_Learning-6366F1?style=for-the-badge" />
-</p>
+*More projects will be added as I continue developing my technical skills.*
 
 ---
 
-## 🌷 About Me
+# 📊 GITHUB ANALYTICS
 
-I'm a Year 1 Cyber Security student at Universiti Teknologi Malaysia (UTM) with an interest in technology, analytical thinking and problem-solving.
+<div align="center">
 
-I enjoy exploring how digital systems work, understanding potential vulnerabilities and continuously challenging myself to learn new technical skills.
+<img width="95%" src="https://github-readme-stats.vercel.app/api?username=jiaxin-07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-- 🎓 Currently pursuing Cyber Security at UTM
-- 💻 Learning programming and computer science fundamentals
-- 🔐 Interested in Network Security and Ethical Hacking
-- 🧩 Passionate about analytical thinking and problem-solving
-- 🌱 Always learning and improving myself
-- 🎯 Aspiring to become a cybersecurity professional
+<br/><br/>
 
----
+<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiaxin-07&layout=compact&theme=tokyonight&hide_border=true"/>
 
-## 💻 Tech Stack & Skills
+<br/><br/>
 
-### Programming Languages
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=jiaxin-07&theme=tokyonight&hide_border=true"/>
 
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</p>
-
-### Tools & Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
-### Areas of Interest
-
-- Cybersecurity
-- Network Security
-- Ethical Hacking
-- Computer Systems
-- Software Development
+</div>
 
 ---
 
-## 🚀 My Projects & Learning Journey
+# 🌌 CONTRIBUTION ACTIVITY
 
-| Project | Description | Status |
-|---|---|---|
-| C++ Programming | Programming fundamentals and problem-solving | Learning |
-| Java Fundamentals | Exploring object-oriented programming | Learning |
-| Computer Hardware | CPU fan and HDD assembly/disassembly | Completed |
-| Cybersecurity | Exploring security concepts and networking | Learning |
+<div align="center">
 
-More projects coming soon! 🚀
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jiaxin-07&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
 
 ---
 
-## 📊 GitHub Statistics
+# 🤝 LET'S CONNECT
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+<a href="https://www.linkedin.com/in/tew-jia-xin-b60828445/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
+<a href="https://github.com/jiaxin-07">
+<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+</div>
 
 ---
 
-<h3 align="center">
-  🔐 Learning Today. Securing Tomorrow.
-</h3>
+<div align="center">
 
-<p align="center">
-  "Every expert was once a beginner."
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=STAY+CURIOUS.;THINK+CRITICALLY.;BUILD+FEARLESSLY.;SECURE+THE+FUTURE." />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=8B5CF6&style=flat" />
-</p>
+<br/>
+
+### 🔐 LEARNING TODAY. SECURING TOMORROW.
+
+*Every expert was once a beginner.*
+
+<img src="https://komarev.com/ghpvc/?username=jiaxin-07&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge"/>
+
+</div>
